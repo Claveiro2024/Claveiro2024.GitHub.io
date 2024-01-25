@@ -1,0 +1,40 @@
+body{
+    background-color: beige;
+}
+#tn{
+    text-align: center;
+font-family: monospace; font-style: italic; 
+background-color: green; color: #fff;
+margin-top: -10px;margin-left: -10px; margin-right: -10px;
+padding-top: 10px;padding-bottom: 5px;
+border-bottom: 2px solid blue;
+}
+img{
+    height: 120px;
+    width: 130px;
+    border-radius: 14px;
+}
+ #europa{
+ height: 208px;
+ width: 130px;
+ border: 1px solid antiquewhite; border-radius: 14px;
+ text-align: left;
+
+}
+#europa{
+    margin-left: 20px;
+}
+.principal{
+    font-family: sans-serif; font-size: 15px;  
+    display: inline-flex; 
+}
+#contactos{
+    margin-top: 200px; margin-bottom: -10px; text-align: center; font-family: sans-serif;
+    border-top: 2px solid black; border-radius: 16px;
+    padding-inline: 14px;
+    background-color: gray;
+    color: yellow;
+}
+.one{
+    text-align: left;
+}

@@ -1,0 +1,46 @@
+h1{
+ padding-left: 1cm;
+ padding-right: 3cm;
+font-size: 40px;
+font-family: serif;
+}
+body{
+    background-color: whitesmoke;
+}
+
+img{
+    width: 30px;
+    height: 20px;
+}
+b{
+    font-size: 20px;
+    font-family: helvetica;
+    font-style: italic;
+}
+p{
+    padding-right: 8cm;
+    padding-left: 1cm;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+em{
+    font-size: 17px;
+    font-family: Verdana;
+}
+.dif{
+    font-style: italic;
+    color: green;
+}
+i{
+    color: red;
+}
+a{
+    font-size: 20px;
+    text-decoration: none;
+}
+a:hover{
+    background-color: aqua;
+}
+a:visited{
+    color: orangered;
+}

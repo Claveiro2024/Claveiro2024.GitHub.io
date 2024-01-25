@@ -1,0 +1,41 @@
+
+h1{
+    font-size: 35px; text-transform: monospace; font-family: sans-serif; 
+    padding-top: 10px; padding-left: 30px; padding-right: 150px;
+    border-bottom: 1px solid red;
+}
+header{
+    font-family: Tahoma; font-size: 1.2rem;
+    margin-top: 17px; margin-left: 32px;margin-right: 103px; margin-bottom: 138px;
+}
+b{
+    font-size: x-large; font-family: Helvetica;
+    padding-left: 45px;
+}
+img{
+    height: 305px; width: 305px;
+    padding-top: 13px; padding-left: 50px;
+}
+p{
+    font-size: 19px; font-family:'Lucida Sans Regular'; 
+    padding-left: 48px; padding-right: 185px; padding-bottom: 50px;
+}
+a{
+    text-decoration: none;
+    color: orange;
+}
+a:hover{
+    background-color: aqua;
+}
+footer{
+    margin-top: 300px;
+    font-size: large; font-family: 'Consolas';
+
+}
+i{
+    color: brown;
+}
+body{
+    background-color: papayawhip;
+    
+}

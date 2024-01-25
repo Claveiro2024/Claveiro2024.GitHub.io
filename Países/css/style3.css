@@ -1,0 +1,33 @@
+h1{
+    font-size: 30px; font-family: Tahoma;text-align: left;
+    padding-top: 20px; padding-bottom: 2px;
+    border-bottom: 1px solid gray;
+}
+header{
+    font-size: 17px; font-family: sans-serif;
+    margin-left: 15px; margin-right: 100px; padding-bottom: 90px; padding-top: 30px;
+}
+*{
+    background-color: bisque;
+}
+b{
+    font-size: 22px; font-family: Arial;
+     padding-left: 100px;
+}
+img{
+    height: 20px; width: 38px;
+}
+
+
+p, h3{
+    font-family: Helvetica; font-size: 17px;
+    padding-left: 30px;padding-right: 270px;
+}
+a{
+    text-decoration: none; 
+    color: brown; 
+}
+footer{
+    padding-top: 100px;
+    font-size: 23px; font-style: normal;
+}

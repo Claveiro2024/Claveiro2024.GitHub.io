@@ -1,0 +1,60 @@
+h1{
+    font-size: 45px;
+    margin-bottom: 220px;
+    padding-left: 15px;
+    padding-right: 75px;
+    border-block-end: 1px solid whitesmoke;
+}
+*{
+    background-color: gray;
+    color: beige;
+}
+p{
+    padding-right: 300px;
+    padding-left: 18px;
+    font-size: 18px;
+    font-family: 'Lucida Sans Typewriter';
+}
+b{
+    font-family: 'Maiandra GD';
+    font-size: 25px;
+    padding-left: 18px;
+    margin-top: 5cm;
+}
+img{
+    height: 250px;
+    width: 480px;
+    padding-left: 22px;
+}
+footer{
+    margin-top: 100px;
+    font-family: 'Consolas';
+    font-size: 16px;
+}
+.q{
+    color: brown;
+    text-decoration: none;
+}
+.q:visited{
+    color: blue;
+}
+.q:hover{
+    background-color: aqua;
+}
+.we{
+    color: blue;
+    text-decoration: none;
+}
+.i{
+    color: blue;
+    text-decoration: none;
+    font-style: italic;
+}
+#d{
+  text-decoration: none;
+    
+}
+#d:hover{
+    background-color: blueviolet;
+}
+

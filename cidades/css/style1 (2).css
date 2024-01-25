@@ -1,0 +1,92 @@
+title{
+background: #345934;
+
+}
+
+
+body{
+background:whitesmoke;    
+}
+b{
+    font-style: italic;
+}
+b{
+    font-family: 'Gill Sans MT';
+}
+b{
+    padding: 2cm;
+}
+p{
+ padding-right: 10cm;
+    
+}
+p{
+    padding-left: 1cm;
+}
+p{
+    font-family: Verdana;
+}
+img{
+    padding: 1cm;
+}
+img{
+height: 5cm;
+
+}
+img{
+    width: 10cm;
+}
+.menor{
+    font-size: 1cm;
+}
+.menor{
+    color: black;
+    margin-bottom: 150px;
+    border-bottom: 2px solid black;
+}
+.menor{
+    padding-right: 2cm;
+}
+.menor{
+    font-family: Georgia;
+}
+h1,h2{
+ font-size: 5mm;
+}
+h1,h2{
+    font-family: Calibri;
+}
+em{
+ font-size: 20px;
+}
+.foto{
+    font-size:15px; 
+}
+.tovisit{
+    text-decoration: none;
+    font-size: 20px;
+    color: blue;
+}
+.tovisit:hover{
+    background-color: aqua;
+}
+.tovisit:visited{
+    color: brown;
+}
+
+ #foi{
+    text-decoration: none;
+ }
+ #go{
+    text-decoration: none;
+    color: coral;
+ }
+
+/* para transformar um link visitado ou mudar a cor de um link visitado
+edita-se  a cor do link atravéz da classe usando tex-decoration, o hover serve para mudar a cor d fundo ou do link que nós já acessamos
+
+para transformar  link em um botão, será necessário usar as tags, border, border-radius e background-color e dsplay estilo*/
+/*list-style e a tag que se usa para mudar o aspecto de uma lista em css*/
+/*The tag display is used agree with a class, for edit the form of the span in css.
+we use first chid for edit the paragaph (p) in css*/
+  

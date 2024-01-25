@@ -1,0 +1,44 @@
+h1{
+    border-block-end: 2px solid  whitesmoke;
+      margin-bottom: 200px;
+    font-size: 40px;    
+}
+b{
+ font-size: 25px;
+ padding-left: 15px;
+ font-family: 'Lucida Sans';
+ color: bisque;
+}
+p{
+    padding-right: 500px;
+    padding-left: 45px;
+    font-size: 22px;
+    font-family: 'Microsoft Sans Serif';
+}
+img{
+    padding-left: 40px;
+    width: 130px;
+    height: 150px;
+}
+body{
+    background-color: black;
+    color: white;
+}
+footer{
+    padding-top: 300px;
+    font-size: 25px;
+}
+em{
+    font-style: normal;
+    font-family: 'Consolas';
+}
+a{
+    color: blue;
+    text-decoration: none;
+}
+a:visited{
+    color: blueviolet;
+}
+a:hover{
+    background-color: aqua;
+}
